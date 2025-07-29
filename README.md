@@ -104,7 +104,7 @@ pip install -r requirements.txt
 ## 👩‍💻 Author
 
 **Swamini Sontakke**  
-M.S. in Computer Science  
+M.S. in Data Science  
 Project: Comparative Analysis of Land Cover Classification Techniques
 
 ---
